@@ -5,8 +5,9 @@
 
 **Phone:** +375 33 612-98-18
 **E-mail:** tsekhanovich92@mail.ru
-**Telegram**: @garrykarry
+**Telegram:** @garrykarry
 **Skype:** garry-karry
+**Discord:** Maria Lahimakhava (@garry-karry)
 **[Linkedin](https://www.linkedin.com/in/maria-lahimakhava-a0742b106/)**
 ***********
 
