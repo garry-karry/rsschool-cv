@@ -15,7 +15,7 @@
 I'm current senior project manager on vacation (since 12/03/2022). 
 I've finished the short marathon of frontend development in Intellect fox in January 2022 so that I can understand my team colleagues deeper and easier. While learning I got inspiration and decided to try myself in frontend sphere.
 
-During my way on the project manager position I was leading the team from 5 to 20 members and I have finished more than 30 projects for last 3 years. Simalteniously I've been coordinating at least 3-6 projects. This level of skills in my job I've achieved in 2 years after starting my work in the current company.
+During my way on the project manager position I was leading the team from 5 to 20 members and I have finished more than 30 projects for last 4 years. Simalteniously I've been coordinating at least 3-6 projects. This level of skills in my job I've achieved in 2 years after starting my work in the current company.
 
 *My strong sides:* 
 * flexibility
@@ -56,6 +56,11 @@ During my way on the project manager position I was leading the team from 5 to 2
         }
     });
 
+### Projects:
+My first front-end project from Intellect Fox marathon [Foxgram](https://garry-karry.github.io/marathon/)
+[Github](https://github.com/garry-karry/marathon)
+
+*Code example above is a part from this project.*
     
 ---------------------
 ### Courses:
